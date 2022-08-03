@@ -1,0 +1,30 @@
+﻿body {
+    display: block;
+    margin: 0px;
+}
+
+.sari,
+.siyah,
+.beyaz {
+    padding: 15px;
+}
+
+.sari {
+    background-color: yellow;
+}
+
+.siyah {
+    background-color: black;
+    color: wheat;
+    font-family: Calibri;
+    border-bottom: 5px solid wheat;
+}
+
+.beyaz {
+    background-color: white;
+    margin:25px;
+}
+
+.siyah-cerceve {
+    border-bottom: 5px solid black;
+}
